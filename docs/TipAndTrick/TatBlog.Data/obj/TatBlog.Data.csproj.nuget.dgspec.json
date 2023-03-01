@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {}
+    "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {}
   },
   "projects": {
-    "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
+    "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectUniqueName": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj",
         "projectName": "TatBlog.Core",
-        "projectPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj",
         "packagesPath": "C:\\Users\\nhokt\\.nuget\\packages\\",
-        "outputPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Core\\obj\\",
+        "outputPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhokt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
+    "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj",
+        "projectUniqueName": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj",
         "projectName": "TatBlog.Data",
-        "projectPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj",
+        "projectPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj",
         "packagesPath": "C:\\Users\\nhokt\\.nuget\\packages\\",
-        "outputPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Data\\obj\\",
+        "outputPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhokt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
-                "projectPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj"
+              "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj"
               }
             }
           }

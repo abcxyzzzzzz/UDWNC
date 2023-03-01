@@ -3427,11 +3427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.WinApp\\TatBlog.WinApp.csproj",
+      "projectUniqueName": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WinApp\\TatBlog.WinApp.csproj",
       "projectName": "TatBlog.WinApp",
-      "projectPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.WinApp\\TatBlog.WinApp.csproj",
+      "projectPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WinApp\\TatBlog.WinApp.csproj",
       "packagesPath": "C:\\Users\\nhokt\\.nuget\\packages\\",
-      "outputPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.WinApp\\obj\\",
+      "outputPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WinApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhokt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3448,14 +3448,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
-              "projectPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj"
+            "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
+              "projectPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj"
             },
-            "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
-              "projectPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj"
+            "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
+              "projectPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj"
             },
-            "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj": {
-              "projectPath": "D:\\Năm 3-2\\PTUDWNC\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj"
+            "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj": {
+              "projectPath": "D:\\Năm 3-2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj"
             }
           }
         }

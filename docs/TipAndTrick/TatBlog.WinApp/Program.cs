@@ -34,7 +34,7 @@ var posts = context.Posts
    })
    .ToList();
 
-	
+	//
 foreach (var post in posts)
 {
 	Console.WriteLine("ID : {0}", post.Id);
