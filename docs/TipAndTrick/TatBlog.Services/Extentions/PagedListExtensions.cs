@@ -20,7 +20,7 @@ public static class PagedListExtensions
 			pagingParams.SortOrder, StringComparison.OrdinalIgnoreCase)
 			? pagingParams.SortOrder : "DESC";
 
-		return $"{column}{order}";
+		return $"{column} {order}";
 	}
 
 	public static async Task<PagedList<T>> ToPagedListAsync<T>(
