@@ -28,4 +28,9 @@ public interface IBlogRepository
 	Task<IPagedList<TagItem>> GetPagedTagsAsync(
 		IPagingParams pagingParams,
 		CancellationToken cancellationToken = default);
+	Task<Tag> GetTagSlug(
+		string slug,
+	CancellationToken cancellationToken = default);
+	Task<IList<TagItem>> GetTagsAsync(
+		CancellationToken cancellationToken = default);
 }

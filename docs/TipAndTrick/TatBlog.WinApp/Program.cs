@@ -11,14 +11,18 @@ seeder.Initialize();
 
 var authors = context.Authors.ToList();
 
-//Console.WriteLine("{0,-4}{1,30}{2,30}{3,12}",
-//	"ID", "Full Name", "Email", "Joined Date");
+Console.WriteLine("{0,-4}{1,30}{2,30}{3,12}",
+	"ID", "Full Name", "Email", "Joined Date");
 
-//foreach (var author in authors)
-//{
-//	Console.WriteLine("{0,-4}{1,-30}{2,30}{3,12:MM/dd/yyyy}",
-//		author.Id, author.FullName, author.Email, author.JoinedDate);
-//}
+foreach (var author in authors)
+{
+	Console.WriteLine("{0,-4}{1,-30}{2,30}{3,12:MM/dd/yyyy}",
+		author.Id, author.FullName, author.Email, author.JoinedDate);
+}
+
+
+
+
 
 var posts = context.Posts
    .Where(p => p.Published)
@@ -34,7 +38,7 @@ var posts = context.Posts
    })
    .ToList();
 
-	
+	//
 foreach (var post in posts)
 {
 	Console.WriteLine("ID : {0}", post.Id);
@@ -79,3 +83,17 @@ foreach (var item in tagList)
 	Console.WriteLine("{0,-5}{1,-50}{2,10}",
 	item.Id, item.Name, item.PostCount);
 }
+
+var tags = await blogRepo.GetTagSlug("asp-net-mvc");
+Console.WriteLine("{0,4}{1,-50}{2,10}", "Name", "  Description", "UrlSlug");
+Console.WriteLine("{0,4}{1,-50}{2,10}", tags.Name,tags.Description,tags.UrlSlug);
+
+var tagers = await blogRepo.GetTagsAsync();
+
+Console.WriteLine("{0,-5}{1,-50}{2,10}",
+	"ID", "Name", "Count");
+foreach(var item in tagers)
+{
+	Console.WriteLine("{0,-5}{1,-50}{2,10}",
+	item.Id, item.Name, item.PostCount);
+}	
