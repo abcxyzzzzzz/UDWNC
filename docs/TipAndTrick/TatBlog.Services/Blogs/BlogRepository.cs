@@ -83,12 +83,35 @@ public class BlogRepository : IBlogRepository
 		{
 			postsQuery = postsQuery.Where(x => x.PostedDate.Month == month);
 		}
-		if (!string.IsNullOrEmpty(slug))
+		if (!string.IsNullOrWhiteSpace(slug))
 		{
 			postsQuery = postsQuery.Where(x => x.UrlSlug == slug);
 		}
 		return await postsQuery.FirstOrDefaultAsync(cancellationToken);
 	}
+
+	public async Task<IList<TagItem>> GetTagsAsync(CancellationToken cancellationToken = default)
+	{
+		IQueryable<Tag> tags = _context.Set<Tag>();
+		return await tags
+			.OrderBy(x => x.Name)
+			.Select(x => new TagItem()
+			{
+				Id = x.Id,
+				Name = x.Name,
+				UrlSlug = x.UrlSlug,
+				Description = x.Description,
+				PostCount = x.Posts.Count(p => p.Published)
+			})
+			.ToListAsync(cancellationToken);
+	}
+
+	public async Task<Tag> GetTagSlug(string slug, CancellationToken cancellationToken = default)
+	{
+		if(string.IsNullOrWhiteSpace(slug)) return null;
+		return await _context.Set<Tag>().FirstOrDefaultAsync(x => x.UrlSlug == slug, cancellationToken);
+	}
+
 	public async Task IncreaseWiewCountAsync(int postID, CancellationToken cancellationToken = default)
 	{
 		await _context.Set<Post>()

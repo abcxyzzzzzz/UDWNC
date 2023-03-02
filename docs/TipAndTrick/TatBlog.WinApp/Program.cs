@@ -20,6 +20,10 @@ foreach (var author in authors)
 		author.Id, author.FullName, author.Email, author.JoinedDate);
 }
 
+
+
+
+
 var posts = context.Posts
    .Where(p => p.Published)
    .OrderBy(p => p.Title)
@@ -79,3 +83,17 @@ foreach (var item in tagList)
 	Console.WriteLine("{0,-5}{1,-50}{2,10}",
 	item.Id, item.Name, item.PostCount);
 }
+
+var tags = await blogRepo.GetTagSlug("asp-net-mvc");
+Console.WriteLine("{0,4}{1,-50}{2,10}", "Name", "  Description", "UrlSlug");
+Console.WriteLine("{0,4}{1,-50}{2,10}", tags.Name,tags.Description,tags.UrlSlug);
+
+var tagers = await blogRepo.GetTagsAsync();
+
+Console.WriteLine("{0,-5}{1,-50}{2,10}",
+	"ID", "Name", "Count");
+foreach(var item in tagers)
+{
+	Console.WriteLine("{0,-5}{1,-50}{2,10}",
+	item.Id, item.Name, item.PostCount);
+}	
