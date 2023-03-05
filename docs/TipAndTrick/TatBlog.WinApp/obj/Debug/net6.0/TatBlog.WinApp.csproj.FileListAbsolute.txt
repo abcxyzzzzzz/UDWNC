@@ -154,3 +154,11 @@ D:\Năm 3-2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\refint\TatBlo
 D:\Năm 3-2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.pdb
 D:\Năm 3-2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.genruntimeconfig.cache
 D:\Năm 3-2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\ref\TatBlog.WinApp.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.csproj.AssemblyReference.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.AssemblyInfoInputs.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.AssemblyInfo.cs
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.csproj.CoreCompileInputs.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\refint\TatBlog.WinApp.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WinApp\obj\Debug\net6.0\TatBlog.WinApp.pdb
