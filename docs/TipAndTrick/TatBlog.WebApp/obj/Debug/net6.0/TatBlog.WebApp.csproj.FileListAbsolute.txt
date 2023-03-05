@@ -84,3 +84,16 @@ D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Data.p
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Services.pdb
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WinApp.pdb
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.csproj.CopyComplete
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Graph.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Kiota.Abstractions.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Kiota.Authentication.Azure.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Form.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Json.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Kiota.Serialization.Text.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\Tavis.UriTemplates.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

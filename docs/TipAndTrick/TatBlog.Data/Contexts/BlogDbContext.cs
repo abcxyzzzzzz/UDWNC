@@ -15,9 +15,7 @@ public class BlogDbContext : DbContext
 	public DbSet<Tag> Tags { get; set; }
 
 	public BlogDbContext (DbContextOptions<BlogDbContext> options) 
-		: base(options)
-	{
-	}
+		: base(options) { }
 
 	protected override void OnModelCreating(ModelBuilder modelBuilder)
 	{
