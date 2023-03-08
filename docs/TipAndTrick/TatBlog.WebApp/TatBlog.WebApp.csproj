@@ -13,4 +13,9 @@
     <ProjectReference Include="..\TatBlog.WinApp\TatBlog.WinApp.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\templates\emails\" />
+    <Folder Include="wwwroot\uploads\pictures\" />
+  </ItemGroup>
+
 </Project>

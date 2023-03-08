@@ -44,6 +44,7 @@ public class BlogRepository : IBlogRepository
 			.ToListAsync(cancellationToken);
 	}
 
+
 	public async Task<IPagedList<TagItem>> GetPagedTagsAsync(IPagingParams pagingParams, CancellationToken cancellationToken = default)
 	{
 		var tagQuery = _context.Set<Tag>()
@@ -57,7 +58,7 @@ public class BlogRepository : IBlogRepository
 			});
 
 		return await tagQuery
-			.ToPagedListAsync(pagingParams, cancellationToken);
+			.ToPagedListAsync(pagingParams,cancellationToken);
 	}
 
 	public async Task<IList<Post>> GetPopularArticAsync(int numPosts, CancellationToken cancellationToken = default)
