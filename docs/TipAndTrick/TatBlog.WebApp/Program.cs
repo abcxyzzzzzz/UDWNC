@@ -71,7 +71,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 var app = builder.Build();
 {
-	app.UseRequestPipeline();
+	app.UseRequesrPipeline();
 	app.UseBlogRoutes();
 	app.UseDataSeeder();
 }

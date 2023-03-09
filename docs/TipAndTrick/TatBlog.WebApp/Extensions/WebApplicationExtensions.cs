@@ -6,7 +6,7 @@ using TatBlog.Services.Blogs;
 
 namespace TatBlog.WebApp.Extensions;
 
-public class WebApplicationExtensions
+public static class WebApplicationExtensions
 {
 
 

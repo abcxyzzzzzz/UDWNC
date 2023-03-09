@@ -4,6 +4,7 @@
 	var imageUrl = string.IsNullOrWhiteSpace(Model.ImageUrl)
 				? "/images/image_1.jpg"
 				:$"{Model.ImageUrl}";
+
 }
 
 <article class="blog-entry mb-4">
@@ -16,22 +17,26 @@
 			</div>
 			<div class="col-md-8">
 				<div class="card-body">
-					<h5 class ="card-title">
+					 <a href= "/blog/post/@Model.PostedDate.ToString("yyyy/MM/dd")/@Model.UrlSlug"><h5 class ="card-title">
 						@Model.Title
 					</h5>
+					</a>
+					
 					<p class="card-text">
 						<small class="text-muted">
 							Tac Gia
 						</small>
-						<span class="text-primary">
+						<a href= "/blog/author/@Model.Author.UrlSlug"><span class="text-primary">
 							@Model.Author.FullName
 						</span>
+						</a> 
 						<small class="text-muted">
 							Tac Gia
 						</small>
-						<span class="text-primary">
+						<a href= "/blog/category/@Model.Category.UrlSlug"><span class="text-primary">
 							@Model.Category.Name
 						</span>
+						</a>
 					</p>
 					<p class="card-text">
 						@Html.Raw(Model.ShortDescription)

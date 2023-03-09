@@ -1,6 +1,6 @@
 ﻿namespace TatBlog.WebApp.Extensions;
 
-public class RouteExtensions
+public static class RouteExtensions
 {
 	public static IEndpointRouteBuilder UseBlogRoutes(
 		this IEndpointRouteBuilder endpoints)

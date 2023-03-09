@@ -1,9 +1,12 @@
-﻿//using Microsoft.Graph.Models;
-//using Microsoft.EntityFrameworkCore;
-//using TatBlog.Data.Contexts;
-//using TatBlog.Data.Seeders;
-//using TatBlog.Services.Blogs;
-//using TatBlog.WinApp;
+﻿using Microsoft.Graph.Models;
+using Microsoft.EntityFrameworkCore;
+using TatBlog.Data.Contexts;
+using TatBlog.Data.Seeders;
+using TatBlog.Services.Blogs;
+using TatBlog.WinApp;
+
+
+Console.WriteLine("Hello");
 
 //var context = new BlogDbContext();
 

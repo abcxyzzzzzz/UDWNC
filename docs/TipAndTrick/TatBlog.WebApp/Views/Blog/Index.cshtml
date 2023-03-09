@@ -1,4 +1,5 @@
-﻿@*@{
+﻿@using TatBlog.Services.Blogs
+@*@{
     ViewData["Title"] = "Trang chủ";
 }
 
@@ -25,7 +26,7 @@
     }
     @foreach (var postItem in Model)
     {
-        <partial name ="_PostItem" model = "postItem"/>
+        <partial name ="_PostList" model = "postItem"/>
     }
     <partial name ="_Pager" model="@Model"/>
 </div>
