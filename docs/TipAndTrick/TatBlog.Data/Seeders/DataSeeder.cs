@@ -89,7 +89,7 @@ namespace TatBlog.Data.Seeders
 		{
 			var tags = new List<Tag>
 		{
-			new() {Name = "Goole", Description = "Goo applications", UrlSlug= "abccc"},
+			new() {Name = "Goole", Description = "applications", UrlSlug= "abccc"},
 			new() {Name = "ASP.NET MVC", Description = "ASP.NET MVC", UrlSlug= "abccc"},
 			new() {Name = "Razor Page", Description = "Razor Page", UrlSlug= "abccc"},
 			new() {Name = "Blazor", Description = "Blazor", UrlSlug= "abccc"},

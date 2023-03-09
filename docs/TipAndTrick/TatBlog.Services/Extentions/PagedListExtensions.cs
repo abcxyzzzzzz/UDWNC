@@ -20,7 +20,7 @@ public static class PagedListExtensions
 			pagingParams.SortOrder, StringComparison.OrdinalIgnoreCase)
 			? pagingParams.SortOrder : "DESC";
 
-		return $"{column}{order}";
+		return $"{column} {order}";
 	}
 
 	public static async Task<PagedList<T>> ToPagedListAsync<T>(
@@ -29,19 +29,19 @@ public static class PagedListExtensions
 		CancellationToken cancellationToken = default)
 	{
 		var totalCount = await source.CountAsync(cancellationToken);
-		var item = await source
+		var items = await source
 			.OrderBy(pagingParams.GetOrderExpression())
 			.Skip((pagingParams.PageNumber - 1) * pagingParams.PageSize)
 			.Take(pagingParams.PageSize)
 			.ToListAsync(cancellationToken);
 		return new PagedList<T>(
-			item,
+			items,
 			pagingParams.PageSize,
 			pagingParams.PageNumber,
 			totalCount);
 	}
-	public static async Task<IPagedList<T>> ToPageListAsync<T>(
-		this IQueryable<T> source,
+	public static async Task<IPagedList<T>> ToPagedListAsync<T>(
+		this IQueryable<T> source, 
 		int pageNumber = 1,
 		int pageSize = 10,
 		string sortColumn = "Id",
@@ -57,5 +57,6 @@ public static class PagedListExtensions
 		return new PagedList<T>(
 			items, pageNumber, pageSize, totalCount);
 	}
+	
 
 }

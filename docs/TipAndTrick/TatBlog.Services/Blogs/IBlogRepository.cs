@@ -25,7 +25,14 @@ public interface IBlogRepository
 	Task<IList<CategoryItem>> GetCategoriesAsyns(
 		bool showOnMenu = false,
 		CancellationToken cancellationToken = default);
-	Task<IPagedList<TagItem>> GetPagedTagsAsync(
-		IPagingParams pagingParams,
+	Task<Tag> GetTagSlug(
+		string slug,
+	CancellationToken cancellationToken = default);
+	Task<IList<TagItem>> GetTagsAsync(
 		CancellationToken cancellationToken = default);
-}
+	Task<IPagedList<Post>> GetPagedPostsAsync(
+		PostQuery condition,
+		int pageNumber ,
+		int pageSize ,
+		CancellationToken cancellationToken = default);                           
+}	
