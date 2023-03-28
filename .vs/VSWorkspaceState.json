@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\TatBlog.Core",
-    "\\TatBlog.Core\\Contracts",
-    "\\TatBlog.Core\\DTO",
-    "\\TatBlog.WebApp",
-    "\\TatBlog.WinApp"
+    ""
   ],
-  "SelectedNode": "\\TatBlog.Core\\DTO",
+  "SelectedNode": "\\TipAndTrick.sln",
   "PreviewInSolutionExplorer": false
 }
