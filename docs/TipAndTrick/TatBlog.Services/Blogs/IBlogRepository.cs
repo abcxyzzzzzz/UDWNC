@@ -33,4 +33,4 @@ public interface IBlogRepository
 	CancellationToken cancellationToken = default);
 	Task<IList<TagItem>> GetTagsAsync(
 		CancellationToken cancellationToken = default);
-}
+}	

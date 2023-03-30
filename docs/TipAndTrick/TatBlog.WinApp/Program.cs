@@ -23,9 +23,6 @@
 //}
 
 
-
-
-
 //var posts = context.Posts
 //   .Where(p => p.Published)
 //   .OrderBy(p => p.Title)
