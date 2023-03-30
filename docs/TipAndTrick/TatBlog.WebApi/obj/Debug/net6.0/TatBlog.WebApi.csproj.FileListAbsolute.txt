@@ -1,0 +1,7 @@
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApi\obj\Debug\net6.0\TatBlog.WebApi.csproj.AssemblyReference.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApi\obj\Debug\net6.0\TatBlog.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApi\obj\Debug\net6.0\TatBlog.WebApi.AssemblyInfoInputs.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApi\obj\Debug\net6.0\TatBlog.WebApi.AssemblyInfo.cs
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApi\obj\Debug\net6.0\TatBlog.WebApi.csproj.CoreCompileInputs.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApi\obj\Debug\net6.0\TatBlog.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApi\obj\Debug\net6.0\TatBlog.WebApi.MvcApplicationPartsAssemblyInfo.cs

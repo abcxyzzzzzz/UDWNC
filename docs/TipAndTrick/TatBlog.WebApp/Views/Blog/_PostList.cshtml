@@ -4,6 +4,7 @@
 	var imageUrl = string.IsNullOrWhiteSpace(Model.ImageUrl)
 				? "/images/image_1.jpg"
 				:$"{Model.ImageUrl}";
+
 }
 
 <article class="blog-entry mb-4">
@@ -16,22 +17,35 @@
 			</div>
 			<div class="col-md-8">
 				<div class="card-body">
-					<h5 class ="card-title">
+					 <a asp-controller="Blog"
+							asp-action="Title"
+							asp-route-slug="@Model.UrlSlug">
+							<h5 class ="card-title">
 						@Model.Title
 					</h5>
+					</a>
+					
 					<p class="card-text">
 						<small class="text-muted">
 							Tac Gia
 						</small>
-						<span class="text-primary">
+						<a asp-controller="Blog"
+							asp-action="Author"
+							asp-route-slug="@Model.Author.UrlSlug">
+								<span class="text-primary">
 							@Model.Author.FullName
 						</span>
+						</a> 
 						<small class="text-muted">
 							Tac Gia
 						</small>
-						<span class="text-primary">
+						<a asp-controller="Blog"
+							asp-action="Category"
+							asp-route-slug="@Model.Category.UrlSlug">
+								<span class="text-primary">
 							@Model.Category.Name
 						</span>
+						</a>
 					</p>
 					<p class="card-text">
 						@Html.Raw(Model.ShortDescription)

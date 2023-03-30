@@ -16,8 +16,68 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Authors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQXV0aG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Posts/_PostFilterPane.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUG9zdHNcX1Bvc3RGaWx0ZXJQYW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Subscribers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU3Vic2NyaWJlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/Tags/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcVGFnc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Areas/admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Views/Blog/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Views/Blog/Author.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBdXRob3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Views/Blog/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Views/Blog/Contact.cshtml]
@@ -42,6 +102,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Views/Shared/Components/CategoriesWidget/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1dpZGdldFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Views/Shared/Components/PostRandom/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9zdFJhbmRvbVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Views/Shared/Components/Post/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9zdFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Nam_3.2/UDWNC/docs/TipAndTrick/TatBlog.WebApp/Views/Shared/_Header.cshtml]

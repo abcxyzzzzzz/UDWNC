@@ -1,12 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualStudio.Web.CodeGeneration.Design;
+using NLog.Web;
 using TatBlog.Data.Contexts;
 using TatBlog.Data.Seeder;
 using TatBlog.Data.Seeders;
 using TatBlog.Services.Blogs;
+using TatBlog.Services.Media;
+using TatBlog.WebApp.Middlewares;
 
 namespace TatBlog.WebApp.Extensions;
 
-public class WebApplicationExtensions
+public static class WebApplicationExtensions
 {
 
 
@@ -23,6 +27,7 @@ public class WebApplicationExtensions
 			options.UseSqlServer(
 				builder.Configuration.GetConnectionString("DefaultConnection")));
 
+		builder.Services.AddScoped<IMediaManager, LocalFileSystemMediaManager>();
 		builder.Services.AddScoped<IBlogRepository, BlogRepository>();
 		builder.Services.AddScoped<IDataSeeder, DataSeeder>();
 		return builder;
@@ -44,23 +49,34 @@ public class WebApplicationExtensions
 		app.UseHttpsRedirection();
 		app.UseStaticFiles();
 		app.UseRouting();
+
+		app.UseMiddleware<UserActivityMiddleware>();
 		return app;
 	}
 	public static IApplicationBuilder UseDataSeeder(this IApplicationBuilder app)
 	{
-		using var scope=app.ApplicationServices.CreateScope();
+		using var scope = app.ApplicationServices.CreateScope();
 		try
 		{
 			scope.ServiceProvider
 				.GetRequiredService<IDataSeeder>()
 				.Initialize();
 		}
-		catch(Exception ex)
+		catch (Exception ex)
 		{
 			scope.ServiceProvider
 				.GetRequiredService<ILogger<Program>>()
 				.LogError(ex, "Could not inseat data into database");
 		}
 		return app;
+	}
+
+	public static WebApplicationBuilder ConfigureNlog(
+		this WebApplicationBuilder builder)
+	{
+		builder.Logging.ClearProviders();
+		builder.Host.UseNLog();
+
+		return builder;
 	}
 }

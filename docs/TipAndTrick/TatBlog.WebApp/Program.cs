@@ -62,16 +62,22 @@
 //app.Run();
 
 using TatBlog.WebApp.Extensions;
+using TatBlog.WebApp.Mapsters;
+using TatBlog.WebApp.Validations;
+
 var builder = WebApplication.CreateBuilder(args);
 {
 	builder
 		.ConfigureMvc()
-		.ConfigureServices();
+		.ConfigureServices()
+		.ConfigureNlog()
+		.ConfigureMapster()
+		.ConfigureFluentValidation();
 }
 
 var app = builder.Build();
 {
-	app.UseRequestPipeline();
+	app.UseRequesrPipeline();
 	app.UseBlogRoutes();
 	app.UseDataSeeder();
 }

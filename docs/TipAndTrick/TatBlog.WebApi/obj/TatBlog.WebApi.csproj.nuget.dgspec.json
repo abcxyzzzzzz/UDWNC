@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectName": "TatBlog.Core",
+        "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj",
+        "packagesPath": "C:\\Users\\nhokt\\.nuget\\packages\\",
+        "outputPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nhokt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj",
+        "projectName": "TatBlog.Data",
+        "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj",
+        "packagesPath": "C:\\Users\\nhokt\\.nuget\\packages\\",
+        "outputPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nhokt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj",
+        "projectName": "TatBlog.Services",
+        "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj",
+        "packagesPath": "C:\\Users\\nhokt\\.nuget\\packages\\",
+        "outputPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nhokt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Core\\TatBlog.Core.csproj"
+              },
+              "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
+                "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.25, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
+        "projectName": "TatBlog.WebApi",
+        "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
+        "packagesPath": "C:\\Users\\nhokt\\.nuget\\packages\\",
+        "outputPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nhokt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
+                "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj"
+              },
+              "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj": {
+                "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Akka": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            },
+            "Microsoft.VisualStudio.Services.Client": {
+              "target": "Package",
+              "version": "[16.170.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

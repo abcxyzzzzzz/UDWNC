@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TatBlog.WinApp", "TatBlog.W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TatBlog.WebApp", "TatBlog.WebApp\TatBlog.WebApp.csproj", "{DF99674E-C9E6-47BA-8C72-A9C54B5538B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TatBlog.WebApi", "TatBlog.WebApi\TatBlog.WebApi.csproj", "{42F4E425-5D81-4E49-A406-6B71C5672324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DF99674E-C9E6-47BA-8C72-A9C54B5538B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF99674E-C9E6-47BA-8C72-A9C54B5538B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF99674E-C9E6-47BA-8C72-A9C54B5538B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F4E425-5D81-4E49-A406-6B71C5672324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F4E425-5D81-4E49-A406-6B71C5672324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F4E425-5D81-4E49-A406-6B71C5672324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F4E425-5D81-4E49-A406-6B71C5672324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
