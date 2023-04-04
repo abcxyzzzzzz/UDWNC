@@ -1,0 +1,1345 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TatBlog.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TatBlog.WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\README.md"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\.npmignore",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\.npmignore"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\README.md",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\README.md"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\package.json",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\package.json"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\README.md"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\README.md"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_az.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_da.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_de.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_el.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_et.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_he.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_id.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_is.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_it.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_my.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_no.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_si.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_th.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_de.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\AUTHORS.txt"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\bower.json"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\external\\sizzle\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\external\\sizzle\\dist\\sizzle.min.map"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\lib\\jquery\\package.json"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\DOMEval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\DOMEval.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\camelCase.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\camelCase.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\isAttached.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\isAttached.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\nodeName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\nodeName.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\parseXML.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\parseXML.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\readyException.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\readyException.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\stripAndCollapse.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\stripAndCollapse.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\toType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\toType.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\finalPropName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\finalPropName.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\var\\isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\isHiddenWithinTree.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\var\\rboxStyle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rboxStyle.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\deferred\\exceptionHook.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deferred\\exceptionHook.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\deprecated\\ajax-event-alias.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated\\ajax-event-alias.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\deprecated\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\deprecated\\event.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\event\\focusin.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\focusin.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\event\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\support.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\selector-sizzle.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector-sizzle.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\ObjectFunctionString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\ObjectFunctionString.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\flat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\flat.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\fnToString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\fnToString.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\getProto.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\getProto.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\isFunction.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\isFunction.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\isWindow.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\isWindow.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\.editorconfig",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\.editorconfig"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\.jsbeautifyrc",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\.jsbeautifyrc"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\.jshintignore",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\.jshintignore"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\.jshintrc",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\.jshintrc"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\.npmignore",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\.npmignore"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\.travis.yml",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\.travis.yml"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\Gulpfile.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\Gulpfile.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\speakingurl"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\Makefile",
+      "PackagePath": "staticwebassets\\lib\\speakingurl"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\README.md",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\README.md"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\bower.json"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\component.json",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\component.json"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\examples\\browser-example.html",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\examples\\browser-example.html"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\examples\\node-example.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\examples\\node-example.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\index.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\index.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\lib\\speakingurl-rails.rb",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\lib\\speakingurl-rails.rb"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\lib\\speakingurl.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\lib\\speakingurl.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\package.json",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\package.json"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\speakingurl-rails.gemspec",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\speakingurl-rails.gemspec"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\speakingurl.min.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\speakingurl.min.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\mocha.opts",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\mocha.opts"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-accent.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-accent.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-arabic.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-arabic.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-burmese.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-burmese.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-create.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-create.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-custom.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-custom.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-cyrillic.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-cyrillic.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-defaults.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-defaults.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-dhivehi.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-dhivehi.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-georgien.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-georgien.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-hungarian.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-hungarian.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-lang.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-lang.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-language.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-language.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-maintaincase.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-maintaincase.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-persian.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-persian.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-rfc3986.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-rfc3986.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-separator.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-separator.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-speakingurl.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-speakingurl.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-symbols.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-symbols.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-titlecase.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-titlecase.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-truncate.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-truncate.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\test\\test-turkish.js",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\test\\test-turkish.js"
+    },
+    {
+      "Id": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApp\\wwwroot\\lib\\speakingurl\\typings\\speakingurl\\speakingurl.d.ts",
+      "PackagePath": "staticwebassets\\lib\\speakingurl\\typings\\speakingurl\\speakingurl.d.ts"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TatBlog.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TatBlog.WebApp.props",
+      "PackagePath": "build\\TatBlog.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TatBlog.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\TatBlog.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TatBlog.WebApp.props",
+      "PackagePath": "buildTransitive\\TatBlog.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

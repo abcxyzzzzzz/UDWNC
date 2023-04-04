@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TatBlog.WebApi",
+    "\\TatBlog.WebApi\\Filters"
   ],
-  "SelectedNode": "\\TipAndTrick.sln",
+  "SelectedNode": "\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
   "PreviewInSolutionExplorer": false
 }

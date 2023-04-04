@@ -20,10 +20,9 @@ public static class CategoryEndpoints
 	{
 		var routeGroupBuilder = app.MapGroup("/api/categories");
 
-		// Nested Map with defined specific route
 		routeGroupBuilder.MapGet("/", GetCategories)
 						 .WithName("GetCategories")
-						 .Produces<PaginationResult<CategoryItem>>();
+						 .Produces<ApiRespones<PaginationResult<CategoryItem>>>();
 
 		routeGroupBuilder.MapGet("/{id:int}", GetCategoryDetails)
 						 .WithName("GetCategoryById")
@@ -56,18 +55,22 @@ public static class CategoryEndpoints
 		return app;
 	}
 
-	private static async Task<IResult> GetCategories(
-			[AsParameters] AuthorFilterModel model,
-			IMapper mapper,
-			ICategoryRepository categoryRepository)
+	//private static async Task<IResult> GetCategories(
+	//		[AsParameters] AuthorFilterModel model,
+	//		IMapper mapper,
+	//		ICategoryRepository categoryRepository)
+	//{
+	//	var categoryQuery = mapper.Map<CategoryQuery>(model);
+	//	var categoryList = await categoryRepository.GetCategoryByQueryAsync(categoryQuery, model, category => category.ProjectToType<CategoryItem>());
+	//	var paginationResult =
+	//		new PaginationResult<CategoryItem>(categoryList);
+	//	return Results.Ok(ApiResponse.Success(paginationResult));
+	//}
+	private static async Task<IResult> GetCategories(IBlogRepository blogRepository)
 	{
-		var categoryQuery = mapper.Map<CategoryQuery>(model);
-		var categoryList = await categoryRepository.GetCategoryByQueryAsync(categoryQuery, model, category => category.ProjectToType<CategoryItem>());
-		var paginationResult =
-			new PaginationResult<CategoryItem>(categoryList);
-		return Results.Ok(ApiResponse.Success(paginationResult));
+		var categories = await blogRepository.GetCategoriesAsync();
+		return Results.Ok(ApiResponse.Success(categories));
 	}
-
 	private static async Task<IResult> GetCategoryDetails(int id, ICategoryRepository categoryRepository, IMapper mapper)
 	{
 		var category = await categoryRepository.GetCachedCategoryByIdAsync(id);

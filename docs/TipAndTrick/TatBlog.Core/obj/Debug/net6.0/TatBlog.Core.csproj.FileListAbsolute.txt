@@ -10,3 +10,15 @@ D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.dll
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\refint\TatBlog.Core.dll
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.pdb
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\ref\TatBlog.Core.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\bin\Debug\net6.0\TatBlog.Core.deps.json
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\bin\Debug\net6.0\TatBlog.Core.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.csproj.AssemblyReference.cache
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.AssemblyInfoInputs.cache
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.AssemblyInfo.cs
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.csproj.CoreCompileInputs.cache
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\refint\TatBlog.Core.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\TatBlog.Core.pdb
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Core\obj\Debug\net6.0\ref\TatBlog.Core.dll

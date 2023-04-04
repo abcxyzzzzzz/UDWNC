@@ -8479,11 +8479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
+      "projectUniqueName": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
       "projectName": "TatBlog.WebApi",
-      "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
+      "projectPath": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
       "packagesPath": "C:\\Users\\nhokt\\.nuget\\packages\\",
-      "outputPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\obj\\",
+      "outputPath": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhokt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8500,11 +8500,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
-              "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj"
+            "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj": {
+              "projectPath": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.Data\\TatBlog.Data.csproj"
             },
-            "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj": {
-              "projectPath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj"
+            "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj": {
+              "projectPath": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.Services\\TatBlog.Services.csproj"
             }
           }
         }

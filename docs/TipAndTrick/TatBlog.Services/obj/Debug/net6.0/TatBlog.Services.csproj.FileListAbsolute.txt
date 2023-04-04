@@ -1,11 +1,3 @@
-D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.AssemblyReference.cache
-D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
-D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfoInputs.cache
-D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfo.cs
-D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CoreCompileInputs.cache
-D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.dll
-D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\refint\TatBlog.Services.dll
-D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.pdb
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.deps.json
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.dll
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.pdb
@@ -13,5 +5,30 @@ D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Core
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Data.dll
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Core.pdb
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.AssemblyReference.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfoInputs.cache
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfo.cs
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CoreCompileInputs.cache
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CopyComplete
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\refint\TatBlog.Services.dll
+D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.pdb
 D:\Nam_3.2\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\ref\TatBlog.Services.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.deps.json
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.pdb
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Core.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Data.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.AssemblyReference.cache
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfoInputs.cache
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfo.cs
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CoreCompileInputs.cache
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CopyComplete
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\refint\TatBlog.Services.dll
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.pdb
+D:\Học Tập Kỳ 2 Năm 3\UDWNC\docs\TipAndTrick\TatBlog.Services\obj\Debug\net6.0\ref\TatBlog.Services.dll

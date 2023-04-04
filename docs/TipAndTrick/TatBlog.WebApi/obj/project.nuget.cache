@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vkc1xFf8T3Ty97/rfUXTWvMZ7EpjHl33RvXr9wnEpkUbEKznyFdzrOfUTwKzRNZK2VT3B9YftSYBp9xLoKxXIA==",
+  "dgSpecHash": "ZReypqRp7WBFEHHs0Blbz8wh2rZc8mQ9qMpvbjzm1xNynp5ngF7e2VF7C0fU3yA04lcPGAE/mJy3yENkvrvnww==",
   "success": true,
-  "projectFilePath": "D:\\Nam_3.2\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
+  "projectFilePath": "D:\\Học Tập Kỳ 2 Năm 3\\UDWNC\\docs\\TipAndTrick\\TatBlog.WebApi\\TatBlog.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhokt\\.nuget\\packages\\akka\\1.5.1\\akka.1.5.1.nupkg.sha512",
     "C:\\Users\\nhokt\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
