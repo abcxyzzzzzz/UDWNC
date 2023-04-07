@@ -21,7 +21,7 @@ const Sidebar =() => {
             <h1>
         Tag cloud </h1>
         </div>
-    )
-}
+    );
+};
 
 export default Sidebar;

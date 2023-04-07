@@ -55,17 +55,6 @@ public static class CategoryEndpoints
 		return app;
 	}
 
-	//private static async Task<IResult> GetCategories(
-	//		[AsParameters] AuthorFilterModel model,
-	//		IMapper mapper,
-	//		ICategoryRepository categoryRepository)
-	//{
-	//	var categoryQuery = mapper.Map<CategoryQuery>(model);
-	//	var categoryList = await categoryRepository.GetCategoryByQueryAsync(categoryQuery, model, category => category.ProjectToType<CategoryItem>());
-	//	var paginationResult =
-	//		new PaginationResult<CategoryItem>(categoryList);
-	//	return Results.Ok(ApiResponse.Success(paginationResult));
-	//}
 	private static async Task<IResult> GetCategories(IBlogRepository blogRepository)
 	{
 		var categories = await blogRepository.GetCategoriesAsync();

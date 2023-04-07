@@ -56,4 +56,10 @@ public interface IBlogRepository
 	Task<IList<CategoryItem>> GetCategoriesAsync(
 		bool showOnMenu = false,
 		CancellationToken cancellationToken = default);
+    Task<IPagedList<Post>> GetPostByQueryAsync(PostQuery query, int pageNumber = 1, int pageSize = 10, CancellationToken cancellationToken = default);
+
+    Task<IPagedList<Post>> GetPostByQueryAsync(PostQuery query,
+		IPagingParams pagingParams, CancellationToken cancellationToken = default);
+    Task<IPagedList<T>> GetPostByQueryAsync<T>(PostQuery query,
+		IPagingParams pagingParams, Func<IQueryable<Post>, IQueryable<T>> mapper, CancellationToken cancellationToken = default);
 }	

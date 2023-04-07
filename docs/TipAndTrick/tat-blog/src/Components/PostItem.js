@@ -1,5 +1,5 @@
 import TagList from './TagList';
-import { Card } from 'react-bootstrap/Card';
+import { Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom'; 
 import { isEmptyOrSpaces } from '../Utils/Utils' 
 

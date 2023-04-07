@@ -6,6 +6,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using NLog.Web;
+using PostsBlog.Services.Blogs;
+using TagBlog.Services.Blogs;
 using TatBlog.Data.Contexts;
 using TatBlog.Services.Blogs;
 using TatBlog.Services.Media;
@@ -29,7 +31,7 @@ public static class Application
 		builder.Services.AddScoped<IBlogRepository, BlogRepository>();
 		builder.Services.AddScoped<IAuthorRepository, AuthorRepository>();
 		builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-
+		builder.Services.AddScoped<IPostRepository, PostRepository>();
 		return builder;
 	}
 	public static WebApplicationBuilder ConfigureCors(
